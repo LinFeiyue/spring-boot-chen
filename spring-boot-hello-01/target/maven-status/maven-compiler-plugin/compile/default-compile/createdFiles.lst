@@ -1,0 +1,7 @@
+com\pache\springboot\MainApplication.class
+com\pache\springboot\configuration\JpaConfiguration.class
+com\pache\springboot\repository\UserRepository.class
+com\pache\springboot\entities\Department.class
+com\pache\springboot\entities\Role.class
+com\pache\springboot\controller\hello\SayHelloAction.class
+com\pache\springboot\entities\User.class
